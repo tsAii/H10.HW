@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56753eb2-2577-4029-92c3-5b82cdde0fff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/Android.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/Chargeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/PersonHasDiedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H10/HW/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/H10/HW/AndroidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/H10/HW/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/H10/HW/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/H10/HW/TeacherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H4/CustomArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H6/L6/ArrayGrid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H6/L6/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H7/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H7/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H7/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H9/HW/CreateAndDestroy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H9/HW/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H9/HW/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H9/HW/PersonHasDiedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H9/L/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H9/L/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TDD/StringCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/H4/TestArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/H6/L6/testArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/H7/testBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/H9/HW/testPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/H9/L/BankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TDD/StringCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TDD/StringCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/H6/L6/testArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/H7/testBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/H7/testBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TDD/StringCalculatorTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="254" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFXlRRwVEHoPw3BkdTeYxIAqLz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="H11.L" />
+      <recent name="H10.HW" />
+      <recent name="TDD" />
+      <recent name="H9.L" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="TDD" />
+      <recent name="H9.HW" />
+      <recent name="H4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="H10.HW" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Traineeship\JavaProgrammeren\src\main\java\H11" />
+      <recent name="D:\Traineeship\JavaProgrammeren\src\main\java\H10\HW" />
+      <recent name="D:\Traineeship\JavaProgrammeren\src\main\java\H9\L" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="H9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BankTest.createCheckingAccount">
+    <configuration name="AccountTest.deposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProgrammeren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H11.L.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="H11.L" />
+      <option name="MAIN_CLASS_NAME" value="H11.L.AccountTest" />
+      <option name="METHOD_NAME" value="deposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.withdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProgrammeren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H11.L.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="H11.L" />
+      <option name="MAIN_CLASS_NAME" value="H11.L.AccountTest" />
+      <option name="METHOD_NAME" value="withdraw" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.createCheckingAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProgrammeren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H11.L.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="H11.L" />
+      <option name="MAIN_CLASS_NAME" value="H11.L.BankTest" />
+      <option name="METHOD_NAME" value="createCheckingAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="personTest.testCreateSubhuman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProgrammeren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="H11" />
+      <option name="MAIN_CLASS_NAME" value="H11.personTest" />
+      <option name="METHOD_NAME" value="testCreateSubhuman" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="personTest.testPrintHistory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProgrammeren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="H11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="H11" />
+      <option name="MAIN_CLASS_NAME" value="H11.personTest" />
+      <option name="METHOD_NAME" value="testPrintHistory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankTest.createCheckingAccount" />
+        <item itemvalue="JUnit.AccountTest.deposit" />
+        <item itemvalue="JUnit.AccountTest.withdraw" />
+        <item itemvalue="JUnit.personTest.testPrintHistory" />
+        <item itemvalue="JUnit.personTest.testCreateSubhuman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56753eb2-2577-4029-92c3-5b82cdde0fff" name="Default Changelist" comment="" />
+      <created>1584435966363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584435966363</updated>
+      <workItem from="1584435971392" duration="13043000" />
+      <workItem from="1584517691108" duration="2309000" />
+      <workItem from="1584534166188" duration="10195000" />
+      <workItem from="1584558594232" duration="2521000" />
+      <workItem from="1584561326437" duration="9795000" />
+      <workItem from="1584949165499" duration="596000" />
+      <workItem from="1584952742208" duration="33669000" />
+      <workItem from="1585134595487" duration="161000" />
+      <workItem from="1585134821377" duration="18629000" />
+      <workItem from="1585249485207" duration="552000" />
+      <workItem from="1585250631259" duration="3737000" />
+      <workItem from="1585572606726" duration="14873000" />
+      <workItem from="1585644892564" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1584439573225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584439573225" />
+    <state x="552" y="178" key="#com.intellij.ide.actionMacro.EditMacrosDialog" timestamp="1584475654511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.ide.actionMacro.EditMacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584475654511" />
+    <state x="1183" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1585599139892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1183" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585599139892" />
+    <state x="673" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585226440299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585226440299" />
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585147452457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1585147452457" />
+    <state x="659" y="61" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584469988501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="61" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584469988501" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585061637391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585061637391" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585055946639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585055946639" />
+    <state x="761" y="342" key="FileChooserDialogImpl" timestamp="1585644786024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="342" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585644786024" />
+    <state width="1112" height="278" key="GridCell.Tab.0.bottom" timestamp="1585643067217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585643067217" />
+    <state width="1112" height="278" key="GridCell.Tab.0.center" timestamp="1585643067217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585643067217" />
+    <state width="1112" height="278" key="GridCell.Tab.0.left" timestamp="1585643067217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585643067217" />
+    <state width="1112" height="278" key="GridCell.Tab.0.right" timestamp="1585643067217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585643067217" />
+    <state width="1112" height="339" key="GridCell.Tab.1.bottom" timestamp="1585599788394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585599788394" />
+    <state width="1112" height="339" key="GridCell.Tab.1.center" timestamp="1585599788394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585599788394" />
+    <state width="1112" height="339" key="GridCell.Tab.1.left" timestamp="1585599788394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585599788394" />
+    <state width="1112" height="339" key="GridCell.Tab.1.right" timestamp="1585599788394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1112" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585599788394" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1584539392884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584539392884" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585595329865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585595329865" />
+    <state x="1187" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585574587358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1187" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585574587358" />
+    <state x="1149" y="238" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585642917819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1149" y="238" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585642917819" />
+    <state x="939" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584993544903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1584993544903" />
+    <state x="872" y="100" width="956" height="847" key="dock-window-1" timestamp="1585228243411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="872" y="100" width="956" height="847" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1585228243411" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1585249506739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585249506739" />
+    <state x="342" y="215" key="new project wizard" timestamp="1585249450551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585249450551" />
+    <state x="666" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1585147580763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="148" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585147580763" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1585229872899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585229872899" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585577462956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585577462956" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/H4/CustomArrays.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/H6/L6/ArrayGrid.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaProgrammeren$H10_HW_in_JavaProgrammeren.ic" NAME="H10.HW in JavaProgrammeren Coverage Results" MODIFIED="1585230468353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>H10.HW.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaProgrammeren$AndroidTest.ic" NAME="AndroidTest Coverage Results" MODIFIED="1585230613592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>H10.HW.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaProgrammeren$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1585231975221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>H10.HW.*</FILTER>
+    </SUITE>
+  </component>
+</project>
